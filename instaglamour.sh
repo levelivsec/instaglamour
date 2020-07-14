@@ -29,9 +29,10 @@ do
 done < baner.txt
 printf "\e[1;31m[\e[0m\e[1;77mv2.0\e[0m\e[1;31m]\e[0m\e[1;32m github.com/levelivsec/instaglamour\e[0m\n"
 printf "\e[1;31m[\e[0m\e[1;77m</>\e[0m\e[1;31m]\e[0m\e[1;32mAUTHERS\e[0m\n"
+printf "\e[1;32m>\e[1;31m$\e[1;36mShadow Crawler187\e[0m\n"
 printf "\e[1;32m>\e[1;31m$\e[1;36mSpecter Traww\e[0m\n"
-printf "\e[1;32m>\e[1;31m$\e[1;36mSnakes 001\e[0m\n"
-printf "\e[1;32m>\e[1;31m$\e[1;36mBlack Ninja\e[0m\n"
+
+
 
 }
 
